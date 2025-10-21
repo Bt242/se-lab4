@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores
+GT4500,10,1,10,0
+TORPEDO,SINGLE # shouldn't have fired form the primary store
+TORPEDO,SINGLE # shouldn't have fired from the secondary store
