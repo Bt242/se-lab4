@@ -23,7 +23,7 @@ public class GT4500 implements SpaceShip {
 
     public boolean fireLaser(FiringMode firingMode) {
         // TODO not implemented yet
-        return false;
+        return false; // ezt nem járta be
     }
 
     /**
